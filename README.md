@@ -1,4 +1,4 @@
-# ArcBoard / DICEPAN
+# ArcDice
 
 Unity 6 2D 로컬 핫시트 보드배틀 게임 (최대 4인, 키보드)
 
