@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aa93480ecb91db4f9f5861746a59abb, type: 3}
+  m_Name: Seorin
+  m_EditorClassIdentifier: ArcBoard::CharacterData
+  characterName: "\uBC31\uC11C\uB9B0"
+  portrait: {fileID: 7510030154311419143, guid: ed60a5dcafd75e34180e8d2478ddfae6, type: 3}
+  idle: {fileID: 5918629467315050394, guid: ed60a5dcafd75e34180e8d2478ddfae6, type: 3}
+  rollDice: {fileID: -4561295878612691966, guid: ed60a5dcafd75e34180e8d2478ddfae6, type: 3}
+  battleStart: {fileID: 7474063063724602449, guid: ed60a5dcafd75e34180e8d2478ddfae6, type: 3}
+  attack: {fileID: 3165963327380271599, guid: ed60a5dcafd75e34180e8d2478ddfae6, type: 3}
+  damaged: {fileID: -2772158796867967659, guid: ed60a5dcafd75e34180e8d2478ddfae6, type: 3}
+  lose: {fileID: -3269238597165090433, guid: ed60a5dcafd75e34180e8d2478ddfae6, type: 3}
+  win: {fileID: 3922135970117088338, guid: ed60a5dcafd75e34180e8d2478ddfae6, type: 3}
+  victory: {fileID: 6968401754374085121, guid: ed60a5dcafd75e34180e8d2478ddfae6, type: 3}

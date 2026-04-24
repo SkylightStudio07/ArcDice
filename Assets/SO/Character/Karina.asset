@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aa93480ecb91db4f9f5861746a59abb, type: 3}
+  m_Name: Karina
+  m_EditorClassIdentifier: ArcBoard::CharacterData
+  characterName: "\uCE74\uB9AC\uB098 \uB9C8\uC774\uC5B4"
+  portrait: {fileID: 4859644548275815263, guid: a1ab11c9d6b282543b17253096597bd0, type: 3}
+  idle: {fileID: -3003662921047481447, guid: a1ab11c9d6b282543b17253096597bd0, type: 3}
+  rollDice: {fileID: 2325745462288789088, guid: a1ab11c9d6b282543b17253096597bd0, type: 3}
+  battleStart: {fileID: -4922924477881574037, guid: a1ab11c9d6b282543b17253096597bd0, type: 3}
+  attack: {fileID: 3234508132567741915, guid: a1ab11c9d6b282543b17253096597bd0, type: 3}
+  damaged: {fileID: 9105048897705682907, guid: a1ab11c9d6b282543b17253096597bd0, type: 3}
+  lose: {fileID: 8328211973541264893, guid: a1ab11c9d6b282543b17253096597bd0, type: 3}
+  win: {fileID: 4859644548275815263, guid: a1ab11c9d6b282543b17253096597bd0, type: 3}
+  victory: {fileID: 706280860690898376, guid: a1ab11c9d6b282543b17253096597bd0, type: 3}

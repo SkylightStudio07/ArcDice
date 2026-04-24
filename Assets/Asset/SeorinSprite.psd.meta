@@ -1,0 +1,3315 @@
+fileFormatVersion: 2
+guid: ed60a5dcafd75e34180e8d2478ddfae6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8166485421015480291
+    second: SeorinSprite_0
+  - first:
+      213: -4730296267870339995
+    second: SeorinSprite_1
+  - first:
+      213: -3967014398884164884
+    second: SeorinSprite_2
+  - first:
+      213: -8406458033747516344
+    second: SeorinSprite_3
+  - first:
+      213: -5682233508052906954
+    second: SeorinSprite_4
+  - first:
+      213: 241715136682852475
+    second: SeorinSprite_5
+  - first:
+      213: 6246629183511234548
+    second: SeorinSprite_6
+  - first:
+      213: 8926413068190220588
+    second: SeorinSprite_7
+  - first:
+      213: -3569871321857568067
+    second: SeorinSprite_8
+  - first:
+      213: 7510030154311419143
+    second: SeorinSprite_9
+  - first:
+      213: 1604679823710871811
+    second: SeorinSprite_10
+  - first:
+      213: -6701649364097204449
+    second: SeorinSprite_11
+  - first:
+      213: 3165963327380271599
+    second: SeorinSprite_12
+  - first:
+      213: 5180882995587764801
+    second: SeorinSprite_13
+  - first:
+      213: -8379371351524100937
+    second: SeorinSprite_14
+  - first:
+      213: 5918629467315050394
+    second: SeorinSprite_15
+  - first:
+      213: -6584558807663820960
+    second: SeorinSprite_16
+  - first:
+      213: -6284670817762678205
+    second: SeorinSprite_17
+  - first:
+      213: -6823718258948433217
+    second: SeorinSprite_18
+  - first:
+      213: 6087496304183168829
+    second: SeorinSprite_19
+  - first:
+      213: 3989842312204215631
+    second: SeorinSprite_20
+  - first:
+      213: 8123263470938090130
+    second: SeorinSprite_21
+  - first:
+      213: -4725601883673860006
+    second: SeorinSprite_22
+  - first:
+      213: 9080106784861713962
+    second: SeorinSprite_23
+  - first:
+      213: 7775725045672301444
+    second: SeorinSprite_24
+  - first:
+      213: -4561295878612691966
+    second: SeorinSprite_25
+  - first:
+      213: -2923835327099730967
+    second: SeorinSprite_26
+  - first:
+      213: 6968401754374085121
+    second: SeorinSprite_27
+  - first:
+      213: -4724608148667404709
+    second: SeorinSprite_28
+  - first:
+      213: -1644325609250042318
+    second: SeorinSprite_29
+  - first:
+      213: 2724444305965430922
+    second: SeorinSprite_30
+  - first:
+      213: -2772158796867967659
+    second: SeorinSprite_31
+  - first:
+      213: 4205434861495735047
+    second: SeorinSprite_32
+  - first:
+      213: 9026723479331897743
+    second: SeorinSprite_33
+  - first:
+      213: 8058412913913402262
+    second: SeorinSprite_34
+  - first:
+      213: -1348286510288849229
+    second: SeorinSprite_35
+  - first:
+      213: 1284183575667620685
+    second: SeorinSprite_36
+  - first:
+      213: -5498370032186616014
+    second: SeorinSprite_37
+  - first:
+      213: -4103805348607648797
+    second: SeorinSprite_38
+  - first:
+      213: 1885218565387233077
+    second: SeorinSprite_39
+  - first:
+      213: -6234712506307405138
+    second: SeorinSprite_40
+  - first:
+      213: -440990832972882702
+    second: SeorinSprite_41
+  - first:
+      213: 6820535002970038597
+    second: SeorinSprite_42
+  - first:
+      213: 1861817256059333813
+    second: SeorinSprite_43
+  - first:
+      213: -230865004086231085
+    second: SeorinSprite_44
+  - first:
+      213: -7139078720687237435
+    second: SeorinSprite_45
+  - first:
+      213: -296467203422324907
+    second: SeorinSprite_46
+  - first:
+      213: 7054177064967465337
+    second: SeorinSprite_47
+  - first:
+      213: 2716604038599904754
+    second: SeorinSprite_48
+  - first:
+      213: -920020770178442276
+    second: SeorinSprite_49
+  - first:
+      213: -5329898663736245313
+    second: SeorinSprite_50
+  - first:
+      213: -1028236559548186586
+    second: SeorinSprite_51
+  - first:
+      213: 3228998833803334180
+    second: SeorinSprite_52
+  - first:
+      213: -7128648182098587252
+    second: SeorinSprite_53
+  - first:
+      213: 8626223539807110781
+    second: SeorinSprite_54
+  - first:
+      213: 7522501057579289432
+    second: SeorinSprite_55
+  - first:
+      213: 7474063063724602449
+    second: SeorinSprite_56
+  - first:
+      213: 7322782306678170465
+    second: SeorinSprite_57
+  - first:
+      213: 4734056030706810712
+    second: SeorinSprite_58
+  - first:
+      213: 893473909099659979
+    second: SeorinSprite_59
+  - first:
+      213: -708230897576181758
+    second: SeorinSprite_60
+  - first:
+      213: -2036121319346269251
+    second: SeorinSprite_61
+  - first:
+      213: 3079057059743306732
+    second: SeorinSprite_62
+  - first:
+      213: -4893366047078004619
+    second: SeorinSprite_63
+  - first:
+      213: -5494243528037620180
+    second: SeorinSprite_64
+  - first:
+      213: -9215100982001100162
+    second: SeorinSprite_65
+  - first:
+      213: 1364154945283263932
+    second: SeorinSprite_66
+  - first:
+      213: 2564450624446448373
+    second: SeorinSprite_67
+  - first:
+      213: -4166481760498210193
+    second: SeorinSprite_68
+  - first:
+      213: -2504523071356745828
+    second: SeorinSprite_69
+  - first:
+      213: -7400618269414132597
+    second: SeorinSprite_70
+  - first:
+      213: 3356159800866160291
+    second: SeorinSprite_71
+  - first:
+      213: -7295472449687529676
+    second: SeorinSprite_72
+  - first:
+      213: 7851792850210368418
+    second: SeorinSprite_73
+  - first:
+      213: -8001640293696081861
+    second: SeorinSprite_74
+  - first:
+      213: -3434697234616112104
+    second: SeorinSprite_75
+  - first:
+      213: 3922135970117088338
+    second: SeorinSprite_76
+  - first:
+      213: 7743223996036311511
+    second: SeorinSprite_77
+  - first:
+      213: -3269238597165090433
+    second: SeorinSprite_78
+  - first:
+      213: 4927000143644956015
+    second: SeorinSprite_79
+  - first:
+      213: -1199022435887440424
+    second: SeorinSprite_80
+  - first:
+      213: -9076744617540032208
+    second: SeorinSprite_81
+  - first:
+      213: -5410705609452253315
+    second: SeorinSprite_82
+  - first:
+      213: 4026096229837967537
+    second: SeorinSprite_83
+  - first:
+      213: -758161704456116083
+    second: SeorinSprite_84
+  - first:
+      213: -544823216574956129
+    second: SeorinSprite_85
+  - first:
+      213: -5685129050854578617
+    second: SeorinSprite_86
+  - first:
+      213: -2450992559242839892
+    second: SeorinSprite_87
+  - first:
+      213: -4643902908771354899
+    second: SeorinSprite_88
+  - first:
+      213: 7361455721877481223
+    second: SeorinSprite_89
+  - first:
+      213: 5223112218565400900
+    second: SeorinSprite_90
+  - first:
+      213: -4143473448278878768
+    second: SeorinSprite_91
+  - first:
+      213: -7736132133824440128
+    second: SeorinSprite_92
+  - first:
+      213: 6836269894733087891
+    second: SeorinSprite_93
+  - first:
+      213: 4379460412702919364
+    second: SeorinSprite_94
+  - first:
+      213: -6121463761574699895
+    second: SeorinSprite_95
+  - first:
+      213: -7992455114876995564
+    second: SeorinSprite_96
+  - first:
+      213: 5497837282906432378
+    second: SeorinSprite_97
+  - first:
+      213: 8785351541587083295
+    second: SeorinSprite_98
+  - first:
+      213: -7141876424161262497
+    second: SeorinSprite_99
+  - first:
+      213: 8769919157150592669
+    second: SeorinSprite_100
+  - first:
+      213: -3303929236152314082
+    second: SeorinSprite_101
+  - first:
+      213: -5248544651442148028
+    second: SeorinSprite_102
+  - first:
+      213: -6093435178360854034
+    second: SeorinSprite_103
+  - first:
+      213: -198615883068646960
+    second: SeorinSprite_104
+  - first:
+      213: 2384695920148993610
+    second: SeorinSprite_105
+  - first:
+      213: -7437052540497511409
+    second: SeorinSprite_106
+  - first:
+      213: 5293528896135653746
+    second: SeorinSprite_107
+  - first:
+      213: 5642234420434456090
+    second: SeorinSprite_108
+  - first:
+      213: -965937529424943360
+    second: SeorinSprite_109
+  - first:
+      213: 5870648352445104661
+    second: SeorinSprite_110
+  - first:
+      213: 1089442871449079331
+    second: SeorinSprite_111
+  - first:
+      213: 1649085983569419079
+    second: SeorinSprite_112
+  - first:
+      213: 1398566906805958565
+    second: SeorinSprite_113
+  - first:
+      213: -9016441318205310335
+    second: SeorinSprite_114
+  - first:
+      213: 8097191958443813400
+    second: SeorinSprite_115
+  - first:
+      213: -451767285378583001
+    second: SeorinSprite_116
+  - first:
+      213: 3622053914241075519
+    second: SeorinSprite_117
+  - first:
+      213: 4981756340530074724
+    second: SeorinSprite_118
+  - first:
+      213: -8899435858238419807
+    second: SeorinSprite_119
+  - first:
+      213: -7630343819507280114
+    second: SeorinSprite_120
+  - first:
+      213: 1085886438119308765
+    second: SeorinSprite_121
+  - first:
+      213: 4518644092871961758
+    second: SeorinSprite_122
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeorinSprite_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1207
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7b807f83f255170800000000000000
+      internalID: 8166485421015480291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1207
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c7b374b9c9a5eb0800000000000000
+      internalID: -4730296267870339995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1207
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea46af1c6552f8c0800000000000000
+      internalID: -3967014398884164884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1207
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844204725f2465b80800000000000000
+      internalID: -8406458033747516344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_4
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1207
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c4fadeab6a421b0800000000000000
+      internalID: -5682233508052906954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_5
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1206
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7001dad2aeba5300800000000000000
+      internalID: 241715136682852475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_6
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1207
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f786c6752c70b650800000000000000
+      internalID: 6246629183511234548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_7
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1207
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2102ef246df0eb70800000000000000
+      internalID: 8926413068190220588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1016
+        width: 101
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db253de52f4457ec0800000000000000
+      internalID: -3569871321857568067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_9
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1016
+        width: 97
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7054430b2acf83860800000000000000
+      internalID: 7510030154311419143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1016
+        width: 97
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301e5863cc7f44610800000000000000
+      internalID: 1604679823710871811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1016
+        width: 98
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f73c30965fef2a0800000000000000
+      internalID: -6701649364097204449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_12
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1018
+        width: 117
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe13a6c4fd2cfeb20800000000000000
+      internalID: 3165963327380271599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_13
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1018
+        width: 115
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142dede82a136e740800000000000000
+      internalID: 5180882995587764801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_14
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 1019
+        width: 113
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4325fc62e76bb80800000000000000
+      internalID: -8379371351524100937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_15
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1020
+        width: 101
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97197c6422332250800000000000000
+      internalID: 5918629467315050394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 936
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f3782a6a2fe94a0800000000000000
+      internalID: -6584558807663820960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 936
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aedf8503d58c8a0800000000000000
+      internalID: -6284670817762678205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 936
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba1808a5684d41a0800000000000000
+      internalID: -6823718258948433217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_19
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 925
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f475eb2a12b7450800000000000000
+      internalID: 6087496304183168829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_20
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 936
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4561c0a174ce5730800000000000000
+      internalID: 3989842312204215631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_21
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 936
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aeb228611abb070800000000000000
+      internalID: 8123263470938090130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_22
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 936
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58e3b5cf1a4b6eb0800000000000000
+      internalID: -4725601883673860006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_23
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 935
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26fb4a2305030e70800000000000000
+      internalID: 9080106784861713962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_24
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 936
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483d7624bbce8eb60800000000000000
+      internalID: 7775725045672301444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_25
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 750
+        width: 105
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20456dfa09503b0c0800000000000000
+      internalID: -4561295878612691966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 751
+        width: 105
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e38b7ad2437c67d0800000000000000
+      internalID: -2923835327099730967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_27
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 749
+        width: 102
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a1da5b97cb4b060800000000000000
+      internalID: 6968401754374085121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_28
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 751
+        width: 102
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e63cbbbe1de6eb0800000000000000
+      internalID: -4724608148667404709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_29
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 751
+        width: 99
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ec295029e2e29e0800000000000000
+      internalID: -1644325609250042318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_30
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 749
+        width: 100
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88b76b59ab2fc520800000000000000
+      internalID: 2724444305965430922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_31
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 749
+        width: 99
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555e5b303405789d0800000000000000
+      internalID: -2772158796867967659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_32
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 871
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7035f75a9b4bc5a30800000000000000
+      internalID: 4205434861495735047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_33
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 878
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f818147cd2d554d70800000000000000
+      internalID: 9026723479331897743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_34
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 748
+        width: 99
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6939a3399db35df60800000000000000
+      internalID: 8058412913913402262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_35
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 853
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b638caff8ce94de0800000000000000
+      internalID: -1348286510288849229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_36
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 857
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b3f0e782652d110800000000000000
+      internalID: 1284183575667620685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_37
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 846
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2371ddb569dd1b3b0800000000000000
+      internalID: -5498370032186616014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_38
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 833
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb94e047ca5c07c0800000000000000
+      internalID: -4103805348607648797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_39
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 667
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537a0e10c44a92a10800000000000000
+      internalID: 1885218565387233077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_40
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 667
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa9cd8220ad979a0800000000000000
+      internalID: -6234712506307405138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 667
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc92738c2941e9f0800000000000000
+      internalID: -440990832972882702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 666
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541a52ec27867ae50800000000000000
+      internalID: 6820535002970038597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 667
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bceb181ee086d910800000000000000
+      internalID: 1861817256059333813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_44
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 666
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dffe50808dcbccf0800000000000000
+      internalID: -230865004086231085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_45
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 667
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c613ed5ab5ecec90800000000000000
+      internalID: -7139078720687237435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_46
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 667
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557757436acb2ebf0800000000000000
+      internalID: -296467203422324907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_47
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 666
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979e71c7aa875e160800000000000000
+      internalID: 7054177064967465337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_48
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 667
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd832cdaf053b520800000000000000
+      internalID: 2716604038599904754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_49
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 667
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb5887ebfd6b33f0800000000000000
+      internalID: -920020770178442276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 483
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb30c2387656806b0800000000000000
+      internalID: -5329898663736245313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_51
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 484
+        width: 271
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6208f030c48fab1f0800000000000000
+      internalID: -1028236559548186586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_52
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 483
+        width: 148
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4229ff4d455bfcc20800000000000000
+      internalID: 3228998833803334180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_53
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 478
+        width: 174
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8197416f34f11d90800000000000000
+      internalID: -7128648182098587252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_54
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 572
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76c0531b9086b770800000000000000
+      internalID: 8626223539807110781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_55
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 587
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b838f1bda456860800000000000000
+      internalID: 7522501057579289432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_56
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 471
+        width: 144
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1543c26d1c439b760800000000000000
+      internalID: 7474063063724602449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_57
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 474
+        width: 98
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163611dc5bfbf9560800000000000000
+      internalID: 7322782306678170465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_58
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 524
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f3319b0eeb2b140800000000000000
+      internalID: 4734056030706810712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_59
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 530
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc207f759c1466c00800000000000000
+      internalID: 893473909099659979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 412
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200040340cbdb26f0800000000000000
+      internalID: -708230897576181758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 411
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db314c8a27e3eb3e0800000000000000
+      internalID: -2036121319346269251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_62
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 411
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3982115120bba20800000000000000
+      internalID: 3079057059743306732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_63
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 412
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57845ff9185471cb0800000000000000
+      internalID: -4893366047078004619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_64
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 411
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2624d9fe9680c3b0800000000000000
+      internalID: -5494243528037620180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_65
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 412
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a98760b726d1080800000000000000
+      internalID: -9215100982001100162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_66
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 412
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd8334f1b37ee210800000000000000
+      internalID: 1364154945283263932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_67
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 412
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2c8228142c69320800000000000000
+      internalID: 2564450624446448373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_68
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 411
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a2c5ee9eead26c0800000000000000
+      internalID: -4166481760498210193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_69
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 411
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97c20049852e3dd0800000000000000
+      internalID: -2504523071356745828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_70
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 412
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84fd45e4e8bb4990800000000000000
+      internalID: -7400618269414132597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_71
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 254
+        width: 96
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aeb214ae89739e20800000000000000
+      internalID: 3356159800866160291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_72
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 245
+        width: 86
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437d9b7c57641ca90800000000000000
+      internalID: -7295472449687529676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_73
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 356
+        width: 11
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2abadb62ffb27fc60800000000000000
+      internalID: 7851792850210368418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 245
+        width: 83
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30fac12c8674f090800000000000000
+      internalID: -8001640293696081861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_75
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 237
+        width: 133
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ca0bb10118550d0800000000000000
+      internalID: -3434697234616112104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_76
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 236
+        width: 121
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2547c9b62e93e6630800000000000000
+      internalID: 3922135970117088338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_77
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 237
+        width: 115
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d96604f235757b60800000000000000
+      internalID: 7743223996036311511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_78
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 244
+        width: 145
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f797af921d451a2d0800000000000000
+      internalID: -3269238597165090433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_79
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 175
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65914ab688306440800000000000000
+      internalID: 4927000143644956015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_80
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 175
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd943f72773c5fe0800000000000000
+      internalID: -1199022435887440424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_81
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 175
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039669a6cdce80280800000000000000
+      internalID: -9076744617540032208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_82
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 175
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f82645aef49e4b0800000000000000
+      internalID: -5410705609452253315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_83
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 175
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0180b90319fd730800000000000000
+      internalID: 4026096229837967537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_84
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 175
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88a69b52f77a75f0800000000000000
+      internalID: -758161704456116083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_85
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 82
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9df9aecb266078f0800000000000000
+      internalID: -544823216574956129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_86
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 38
+        width: 78
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7462f85df3d5a11b0800000000000000
+      internalID: -5685129050854578617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_87
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 38
+        width: 76
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca87437d0435cfdd0800000000000000
+      internalID: -2450992559242839892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_88
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 38
+        width: 77
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6b74fa8ea8d8fb0800000000000000
+      internalID: -4643902908771354899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_89
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 173
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7072644f9f4292660800000000000000
+      internalID: 7361455721877481223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_90
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 173
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449d799b3e83c7840800000000000000
+      internalID: 5223112218565400900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_91
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 173
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d513131adc6f76c0800000000000000
+      internalID: -4143473448278878768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_92
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 173
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8d8e3efccb3a490800000000000000
+      internalID: -7736132133824440128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_93
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 173
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3944348cf3f4fde50800000000000000
+      internalID: 6836269894733087891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_94
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 173
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca0b0fba08f6cc30800000000000000
+      internalID: 4379460412702919364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_95
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 171
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cd9e944213c0ba0800000000000000
+      internalID: -6121463761574699895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_96
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 173
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418b08a3b68151190800000000000000
+      internalID: -7992455114876995564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_97
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 173
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73698841ed3c4c40800000000000000
+      internalID: 5497837282906432378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_98
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 100
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f108a372ea6dbe970800000000000000
+      internalID: 8785351541587083295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_99
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 99
+        width: 59
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5481244b35f2ec90800000000000000
+      internalID: -7141876424161262497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_100
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 114
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eaad6220305b970800000000000000
+      internalID: 8769919157150592669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_101
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 130
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e171d1c5dd51622d0800000000000000
+      internalID: -3303929236152314082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_102
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 126
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44da30f827c6927b0800000000000000
+      internalID: -5248544651442148028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_103
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 119
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9aeeb5df4cf6ba0800000000000000
+      internalID: -6093435178360854034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_104
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 128
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d951fa18ef5e3df0800000000000000
+      internalID: -198615883068646960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_105
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 115
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46ddc10e44281120800000000000000
+      internalID: 2384695920148993610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_106
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 110
+        width: 8
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cbabb1e184ac890800000000000000
+      internalID: -7437052540497511409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_107
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 120
+        width: 7
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2796e661c74667940800000000000000
+      internalID: 5293528896135653746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_108
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 128
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e4a71cf4e3d4e40800000000000000
+      internalID: 5642234420434456090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_109
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 114
+        width: 8
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007686b4fec4892f0800000000000000
+      internalID: -965937529424943360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_110
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 112
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51209b0929bb87150800000000000000
+      internalID: 5870648352445104661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_111
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 106
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ecdcbf48a7e1f00800000000000000
+      internalID: 1089442871449079331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_112
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 102
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b1bbef6fab2e610800000000000000
+      internalID: 1649085983569419079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_113
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 139
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a739ca1135b86310800000000000000
+      internalID: 1398566906805958565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_114
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 113
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ab73a646a2fd280800000000000000
+      internalID: -9016441318205310335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_115
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 19
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a61397f210f5070800000000000000
+      internalID: 8097191958443813400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 19
+        width: 43
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726fdd92c000bb9f0800000000000000
+      internalID: -451767285378583001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_117
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 19
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3907a338de144230800000000000000
+      internalID: 3622053914241075519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_118
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 19
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46458da4ff0c22540800000000000000
+      internalID: 4981756340530074724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_119
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 16
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac4358fc3ade7480800000000000000
+      internalID: -8899435858238419807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_120
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 16
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07db2439b29b1690800000000000000
+      internalID: -7630343819507280114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_121
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 16
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddf38256f7d11f00800000000000000
+      internalID: 1085886438119308765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeorinSprite_122
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 15
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cec069cd275be30800000000000000
+      internalID: 4518644092871961758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SeorinSprite_0: 8166485421015480291
+      SeorinSprite_1: -4730296267870339995
+      SeorinSprite_10: 1604679823710871811
+      SeorinSprite_100: 8769919157150592669
+      SeorinSprite_101: -3303929236152314082
+      SeorinSprite_102: -5248544651442148028
+      SeorinSprite_103: -6093435178360854034
+      SeorinSprite_104: -198615883068646960
+      SeorinSprite_105: 2384695920148993610
+      SeorinSprite_106: -7437052540497511409
+      SeorinSprite_107: 5293528896135653746
+      SeorinSprite_108: 5642234420434456090
+      SeorinSprite_109: -965937529424943360
+      SeorinSprite_11: -6701649364097204449
+      SeorinSprite_110: 5870648352445104661
+      SeorinSprite_111: 1089442871449079331
+      SeorinSprite_112: 1649085983569419079
+      SeorinSprite_113: 1398566906805958565
+      SeorinSprite_114: -9016441318205310335
+      SeorinSprite_115: 8097191958443813400
+      SeorinSprite_116: -451767285378583001
+      SeorinSprite_117: 3622053914241075519
+      SeorinSprite_118: 4981756340530074724
+      SeorinSprite_119: -8899435858238419807
+      SeorinSprite_12: 3165963327380271599
+      SeorinSprite_120: -7630343819507280114
+      SeorinSprite_121: 1085886438119308765
+      SeorinSprite_122: 4518644092871961758
+      SeorinSprite_13: 5180882995587764801
+      SeorinSprite_14: -8379371351524100937
+      SeorinSprite_15: 5918629467315050394
+      SeorinSprite_16: -6584558807663820960
+      SeorinSprite_17: -6284670817762678205
+      SeorinSprite_18: -6823718258948433217
+      SeorinSprite_19: 6087496304183168829
+      SeorinSprite_2: -3967014398884164884
+      SeorinSprite_20: 3989842312204215631
+      SeorinSprite_21: 8123263470938090130
+      SeorinSprite_22: -4725601883673860006
+      SeorinSprite_23: 9080106784861713962
+      SeorinSprite_24: 7775725045672301444
+      SeorinSprite_25: -4561295878612691966
+      SeorinSprite_26: -2923835327099730967
+      SeorinSprite_27: 6968401754374085121
+      SeorinSprite_28: -4724608148667404709
+      SeorinSprite_29: -1644325609250042318
+      SeorinSprite_3: -8406458033747516344
+      SeorinSprite_30: 2724444305965430922
+      SeorinSprite_31: -2772158796867967659
+      SeorinSprite_32: 4205434861495735047
+      SeorinSprite_33: 9026723479331897743
+      SeorinSprite_34: 8058412913913402262
+      SeorinSprite_35: -1348286510288849229
+      SeorinSprite_36: 1284183575667620685
+      SeorinSprite_37: -5498370032186616014
+      SeorinSprite_38: -4103805348607648797
+      SeorinSprite_39: 1885218565387233077
+      SeorinSprite_4: -5682233508052906954
+      SeorinSprite_40: -6234712506307405138
+      SeorinSprite_41: -440990832972882702
+      SeorinSprite_42: 6820535002970038597
+      SeorinSprite_43: 1861817256059333813
+      SeorinSprite_44: -230865004086231085
+      SeorinSprite_45: -7139078720687237435
+      SeorinSprite_46: -296467203422324907
+      SeorinSprite_47: 7054177064967465337
+      SeorinSprite_48: 2716604038599904754
+      SeorinSprite_49: -920020770178442276
+      SeorinSprite_5: 241715136682852475
+      SeorinSprite_50: -5329898663736245313
+      SeorinSprite_51: -1028236559548186586
+      SeorinSprite_52: 3228998833803334180
+      SeorinSprite_53: -7128648182098587252
+      SeorinSprite_54: 8626223539807110781
+      SeorinSprite_55: 7522501057579289432
+      SeorinSprite_56: 7474063063724602449
+      SeorinSprite_57: 7322782306678170465
+      SeorinSprite_58: 4734056030706810712
+      SeorinSprite_59: 893473909099659979
+      SeorinSprite_6: 6246629183511234548
+      SeorinSprite_60: -708230897576181758
+      SeorinSprite_61: -2036121319346269251
+      SeorinSprite_62: 3079057059743306732
+      SeorinSprite_63: -4893366047078004619
+      SeorinSprite_64: -5494243528037620180
+      SeorinSprite_65: -9215100982001100162
+      SeorinSprite_66: 1364154945283263932
+      SeorinSprite_67: 2564450624446448373
+      SeorinSprite_68: -4166481760498210193
+      SeorinSprite_69: -2504523071356745828
+      SeorinSprite_7: 8926413068190220588
+      SeorinSprite_70: -7400618269414132597
+      SeorinSprite_71: 3356159800866160291
+      SeorinSprite_72: -7295472449687529676
+      SeorinSprite_73: 7851792850210368418
+      SeorinSprite_74: -8001640293696081861
+      SeorinSprite_75: -3434697234616112104
+      SeorinSprite_76: 3922135970117088338
+      SeorinSprite_77: 7743223996036311511
+      SeorinSprite_78: -3269238597165090433
+      SeorinSprite_79: 4927000143644956015
+      SeorinSprite_8: -3569871321857568067
+      SeorinSprite_80: -1199022435887440424
+      SeorinSprite_81: -9076744617540032208
+      SeorinSprite_82: -5410705609452253315
+      SeorinSprite_83: 4026096229837967537
+      SeorinSprite_84: -758161704456116083
+      SeorinSprite_85: -544823216574956129
+      SeorinSprite_86: -5685129050854578617
+      SeorinSprite_87: -2450992559242839892
+      SeorinSprite_88: -4643902908771354899
+      SeorinSprite_89: 7361455721877481223
+      SeorinSprite_9: 7510030154311419143
+      SeorinSprite_90: 5223112218565400900
+      SeorinSprite_91: -4143473448278878768
+      SeorinSprite_92: -7736132133824440128
+      SeorinSprite_93: 6836269894733087891
+      SeorinSprite_94: 4379460412702919364
+      SeorinSprite_95: -6121463761574699895
+      SeorinSprite_96: -7992455114876995564
+      SeorinSprite_97: 5497837282906432378
+      SeorinSprite_98: 8785351541587083295
+      SeorinSprite_99: -7141876424161262497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
